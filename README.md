@@ -1,2 +1,3 @@
-Printf Work are as follows
-step by step guide
+_printf
+Synopsis
+_printf FORMAT [ARGUMENT]...
